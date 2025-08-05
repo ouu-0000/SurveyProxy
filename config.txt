@@ -1,3 +1,4 @@
-username="b20143"
-password="SuSp1926+"
+username="b00000"
+password="password"
+
 grade="専攻科1年"	#数字は半角
